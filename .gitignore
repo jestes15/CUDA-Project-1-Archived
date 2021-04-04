@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/CUDA-Project-1/VTune Profiler Results/CUDA-Project-1
+/CUDA-Project-1/My Advisor Results - CUDA-Project-1
